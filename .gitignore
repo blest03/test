@@ -1,0 +1,24 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/test/v17/Browse.VC.db-shm
+/.vs
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/test
+/.vs/test/FileContentIndex
+/.vs/test/FileContentIndex/8fe045fb-259a-4440-a70c-291ea78f94bb.vsidx
+/.vs/test/v17
+/.vs/test/v17/.wsuo
+/.vs/test/v17/Browse.VC.db
+/.vs/test/v17/Browse.VC.db-wal
+/.vs/test/v17/Browse.VC.opendb
+/.vs/test/v17/ipch/AutoPCH
+/.vs/test/v17/ipch/AutoPCH/74ba019a2b714923
+/.vs/test/v17/ipch/AutoPCH/74ba019a2b714923/LABORATORY_WORK.ipch
+/.vs/test/v17/ipch/AutoPCH/86c245d60078bfe8
+/.vs/test/v17/ipch/AutoPCH/86c245d60078bfe8/LABORATORY_WORK_VER_2.ipch
+/.vs/test/v17/ipch/AutoPCH/a2dc07a838a983b7
+/.vs/test/v17/ipch/AutoPCH/a2dc07a838a983b7/VCTMP9792_429424.LABORATORY_WORK.00000000.ipch
+/.vs/VSWorkspaceState.json
