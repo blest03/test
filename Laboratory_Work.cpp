@@ -4,10 +4,14 @@ using namespace std;
 int main() {
 	cout << "Лабораторная №2 GitHub.";
 }
+int pravki() {
+	cout << "privet ot Daniila";
 
+}
+{
 
-
-
-int() {
+int() 
+ {
 	"Zdorovya ot Vlada"
+ }
 }
