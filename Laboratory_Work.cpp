@@ -5,5 +5,5 @@ int main() {
 	cout << "Лабораторная №2 GitHub.";
 }
 int bin() {
-	cout << "privet bin";
+	cout << "ya vnez izmenenie";
 }
